@@ -1,0 +1,142 @@
+*{
+    overflow-x: hidden;
+    overflow-y: hidden;
+  }
+  
+  #background{
+    position: absolute;
+    width: 2700px;
+    height: 1000px;
+  background-color: #d6def5;
+  }
+  #base{
+    position: absolute;
+    width: 475px;
+    height: 325px;
+    top: 198px;
+    left: 531px;
+  background-color: rgb(223, 221, 221);
+  }
+  #image1{
+    position: absolute;
+    width: 475px;
+    height: 356px;
+    top: 229px;
+    left: 623px;
+  }
+  h1{
+    position: absolute;
+    top: 38px;
+    left: 553px;
+    font-family:'Times New Roman', Times, serif ;
+  }
+  h2{
+    position: absolute;
+    left: 45px;
+    top: 204px;
+    font-size: 20px;
+    color: rgb(65, 61, 61);
+    font-family:'Times New Roman', Times, serif ;
+  }
+  h3{
+    position: absolute;
+    left: 724px;
+    top: 229px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+  }
+  h4{
+    position: absolute;
+    left: 733px;
+    top: 255px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+  }
+  h5{
+    position: absolute;
+    left: 712px;
+    top: 284px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+  }
+  h6{
+    position: absolute;
+    left: 715px;
+    top: 306px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+  }
+  img{
+    width: 300px;
+    height: 200px;
+  }
+ 
+  .button {
+    background-color: #0A2469; 
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    
+  }
+  
+  .button1 {
+    background-color: #0A2469;
+    color: white; 
+    border: 2px solid #0A2469;
+    position: absolute;
+    left: 673px;
+    top: 430px;
+    width: 188px;
+    height: 51px;
+  }
+  
+  .button1:hover {
+    background-color: white;
+    color: black;
+  }
+  
+  .button2 {
+    background-color: #0A2469;
+    color: white; 
+    border: 2px solid #0A2469;
+    position: absolute;
+    left: 612px;
+    top: 583px;
+    width: 300px;
+    height: 60px;
+  }
+  
+  .button2:hover {
+    background-color: white;
+    color: black;
+  }
+  
+ 
+  
+  .button5 {
+    width: 129px;
+    height: 60px;
+    background-color: #0A2469;
+    color: white; 
+    border: 2px solid #0A2469;
+    position: absolute;
+    top: 659px;
+    left: 10px;
+  }
+  
+  .button5:hover {
+    
+    background-color: white;
+    color: black;
+  }

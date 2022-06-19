@@ -1,0 +1,159 @@
+*{
+    overflow-x: hidden;
+    overflow-y: hidden;
+  }
+  
+  #background{
+    position: absolute;
+    width: 2700px;
+    height: 1000px;
+  background-color: #d6def5;
+  }
+  #base{
+    position: absolute;
+    width: 475px;
+    height: 325px;
+    top: 198px;
+    left: 531px;
+  background-color: rgb(223, 221, 221);
+  }
+  #image1{
+    position: absolute;
+    width: 287px;
+    height: 40px;
+    top: 262px;
+    left: 698px;
+    background-color: rgb(255, 255, 255);
+  }
+  h1{
+    position: absolute;
+    top: 36px;
+    left: 457px;
+    font-family:'Times New Roman', Times, serif ;
+  }
+  h2{
+    position: absolute;
+    left: 45px;
+    top: 204px;
+    font-size: 20px;
+    color: rgb(65, 61, 61);
+    font-family:'Times New Roman', Times, serif ;
+  }
+  h3{
+    position: absolute;
+    left: 564px;
+    top: 253px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+  }
+  h4{
+    position: absolute;
+    left: 733px;
+    top: 255px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+  }
+  h5{
+    position: absolute;
+    left: 712px;
+    top: 284px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+  }
+  h6{
+    position: absolute;
+    left: 715px;
+    top: 306px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+  }
+  img{
+    width: 300px;
+    height: 200px;
+  }
+ 
+  .button {
+    background-color: #0A2469; 
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    
+  }
+  
+  .button1 {
+    background-color: #0A2469;
+    color: white; 
+    border: 2px solid #0A2469;
+    position: absolute;
+    left: 656px;
+    top: 438px;
+    width: 210px;
+    height: 53px;
+  }
+  
+  .button1:hover {
+    background-color: white;
+    color: black;
+  }
+  
+  .button2 {
+    background-color: #0A2469;
+    color: white; 
+    border: 2px solid #0A2469;
+    position: absolute;
+    left: 788px;
+    top: 564px;
+    width: 300px;
+    height: 60px;
+  }
+  
+  .button2:hover {
+    background-color: white;
+    color: black;
+  }
+
+  .button3 {
+    background-color: #0A2469;
+    color: white; 
+    border: 2px solid #0A2469;
+    position: absolute;
+    left: 431px;
+    top: 564px;
+    width: 300px;
+    height: 60px;
+  }
+  
+  .button3:hover {
+    background-color: white;
+    color: black;
+  }
+  
+ 
+  
+  .button5 {
+    width: 129px;
+    height: 60px;
+    background-color: #0A2469;
+    color: white; 
+    border: 2px solid #0A2469;
+    position: absolute;
+    top: 659px;
+    left: 10px;
+  }
+  
+  .button5:hover {
+    
+    background-color: white;
+    color: black;
+  }
